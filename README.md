@@ -1,4 +1,4 @@
-# Bubble Tea Demo 00
+# Golang Bubble Tea Counter Demo
 
 Source code of a YouTube tutorial about writing terminal applications with Golang by using Bubble Tea.<br>
 Contains a simple counter application.
