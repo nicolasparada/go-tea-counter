@@ -1,4 +1,4 @@
-module github.com/nicolasparada/go-tea-demo-00
+module github.com/nicolasparada/go-tea-counter
 
 go 1.17
 
