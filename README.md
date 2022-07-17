@@ -10,5 +10,5 @@ Contains a simple counter application.
 ```
 go mod download
 go build
-./go-tea-demo-00
+./go-tea-counter
 ```
